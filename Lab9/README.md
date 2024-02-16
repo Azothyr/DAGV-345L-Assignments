@@ -5,11 +5,8 @@ If you would like to look at the Unity project used in this lab, you can view it
 
 If you would like to look over my general Unity scripts, you can find them in my separate [UnityForge](https://github.com/Azothyr/UnityForge) Git Repo.
 
-### Scripts used in this lab:
-- []()
-
 ## YouTube Link
-[![Lab 9]()]()
+[![Lab 9](https://i9.ytimg.com/vi/uabzt6E64E0/mqdefault.jpg?sqp=CMC7u64G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBid1o27k2lRFgNr9qseoGcliXX0g)](https://youtu.be/uabzt6E64E0)
 
 ## Description
-- In this lab,
+- In this lab, we go over how I am effectively using ScriptableObjects, UnityEvents, and Actions.
